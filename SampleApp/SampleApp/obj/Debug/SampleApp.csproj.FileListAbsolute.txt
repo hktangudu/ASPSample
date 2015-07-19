@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\SampleApp\SampleApp\bin\SampleApp.dll.config
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\SampleApp\SampleApp\bin\SampleApp.dll
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\SampleApp\SampleApp\bin\SampleApp.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.dll
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
+E:\Projects\CSharp\SampleApp\SampleApp\bin\SampleApp.dll.config
+E:\Projects\CSharp\SampleApp\SampleApp\bin\SampleApp.dll
+E:\Projects\CSharp\SampleApp\SampleApp\bin\SampleApp.pdb
+E:\Projects\CSharp\SampleApp\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\SampleApp\SampleApp\obj\Debug\SampleApp.dll
+E:\Projects\CSharp\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
+E:\Projects\CSharp\SampleApp\SampleApp\obj\Debug\SampleApp.dll.licenses
